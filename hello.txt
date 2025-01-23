@@ -1,0 +1,3 @@
+Hello world, am learning git and github
+\nNew line of text added\n
+New changes added
